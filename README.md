@@ -9,7 +9,7 @@ If you have a question, or need assistance during class, **please create an issu
 
 ## Give Us Feedback
 
-Please take a moment to complete the class survey at: null.
+Please take a moment to complete the class survey at: null and some.
 
 ## Scripts for Adding Files
 
